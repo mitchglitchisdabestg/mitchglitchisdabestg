@@ -2,7 +2,7 @@
 - 👀 I’m interested in mario and games
 - 🌱 I’m currently learning javascript and html
 - 💞️ I’m looking to collaborate on a website for my bussiness if anyone can help
-- 📫 heres how to reach me : discord: mitchglitchisdabestg#7454 :scratch:mitchglitch gmail:berrygoodbussiness@gmail.com
+- 📫 heres how to reach me : discord: mitchglitchisdabestg#7454 :scratch:mitchglitch gmail:supg293@gmail.com
 
 <!---
 mitchglitchisdabestg/mitchglitchisdabestg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
